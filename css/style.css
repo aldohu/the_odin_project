@@ -1,10 +1,28 @@
 body{
     background-color: antiquewhite;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+   
 }
 
 h1 {
     font-size: 42px;
     font-weight: 800;
     text-align: center;
+    text-transform: uppercase;
+}
+
+#links {
+    text-align: center;
+    border: 1px solid black;
+    width: 30%;
+    margin: 0 auto;
+    height: auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+}
+#links a {
+    text-decoration: none;
+    padding: 10px;
+    margin: 10px;
 }

@@ -1,7 +1,7 @@
 body{
     background-color: antiquewhite;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-   
+    text-align: center;
 }
 
 h1 {
@@ -25,4 +25,16 @@ h1 {
     text-decoration: none;
     padding: 10px;
     margin: 10px;
+    color: #1100ff;
+}
+
+.picture {
+    width: 300px;
+    height: auto;
+}
+
+h2 {
+    font-family: fantasy;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
 }
